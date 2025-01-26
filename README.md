@@ -81,7 +81,3 @@ inth3wild-sneakers-scraper/
     ├── sample-reviews-page.html
     └── scraper.py
 ```
-
-## License
-
-MIT License
